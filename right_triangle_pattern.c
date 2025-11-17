@@ -6,7 +6,7 @@ void main(){
     setlocale(LC_ALL, "Portuguese");
 
     printf("*\n**\n***\n****\n*****\n");
-    printf("\n… um tri‚ngulo ret‚ngulo formado de asteriscos\n");
+    printf("\n√â um tri√¢ngulo ret√¢ngulo formado de asteriscos\n");
 
 }
 
